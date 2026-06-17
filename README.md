@@ -32,17 +32,17 @@ Status      : Open to opportunities ✅
 
 <div align="center">
 
-<a href="https://github.com/PalakshiVerma/Dsaproblemtracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PalakshiVerma&repo=Dsaproblemtracker&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
+<a href="https://github.com/PalakshiVerma/GuitarWorks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PalakshiVerma&repo=GuitarWorks&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
 </a>
-
 </div>
 
 <br/>
 
-| Project | Description |
-|---|---|
-| **DSA Problem Tracker** | A full-stack MERN application to track and manage Data Structures & Algorithms problem-solving progress — helping developers stay consistent in their prep journey |
+| Project | Tech | Description |
+|---|---|---|
+| **GuitarWorks** 🎸 | MERN Stack | A full-stack web application for guitar enthusiasts — browse, manage, and explore guitar products with a seamless and responsive UI |
+| **DSA Problem Tracker** 🧠 | MERN Stack | A full-stack tracker to log and manage DSA problem-solving progress — organized by topic, difficulty & status to keep your coding prep on track |
 
 ---
 
@@ -124,7 +124,7 @@ Status      : Open to opportunities ✅
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palakshi-verma-767b69379/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palakshiverma@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palakshi19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PalakshiVerma)
 
 </div>
